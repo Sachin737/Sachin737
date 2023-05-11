@@ -5,7 +5,7 @@
 
 
 # 👋 Hi, I’m Sachin Mahawar....
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and Competetive Programming.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on above skills!
 - 📫 How to reach me  b20129@students.iitmandi.ac.in.

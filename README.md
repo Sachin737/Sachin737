@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/sachin-mahawar-22b0b41b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pain_373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.dev" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dream7" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/code-forces-3521352-2944796.png?f=avif&w=256" alt="the.dev" height="30" width="40" /></a>
-<a href="https://leetcode.com/Pain_373/" target="blank"><img align="center" src="https://iconscout.com/icon/leetcode-3521542" alt="the.dev" height="30" width="40" /></a>
+<a href="https://leetcode.com/Pain_373/" target="blank"><img align="center" src="https://iconscout.com/icons/leetcode" alt="the.dev" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sachin_0705" target="blank"><img align="center"  src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="the.dev" height="30" width="40" /></a>
 </p>
 

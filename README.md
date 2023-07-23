@@ -10,7 +10,6 @@
 - 💞️ I’m looking to collaborate on above skills!
 - 📫 How to reach me  b20129@students.iitmandi.ac.in.
  
- 
  ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin737&theme=tokyonight&show_icons=true&count_private=true)
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <h3 align="left">Connect with me:</h3>
@@ -19,6 +18,7 @@
 <a href="https://www.linkedin.com/in/sachin-mahawar-22b0b41b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pain_373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.dev" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dream7" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/code-forces-3521352-2944796.png?f=avif&w=256" alt="the.dev" height="30" width="40" /></a>
+<a href="https://leetcode.com/Pain_373/" target="blank"><img align="center" src="https://iconscout.com/icon/leetcode-3521542" alt="the.dev" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sachin_0705" target="blank"><img align="center"  src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="the.dev" height="30" width="40" /></a>
 </p>
 

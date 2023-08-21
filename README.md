@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on above skills!
 - 📫 How to reach me  b20129@students.iitmandi.ac.in.
  
- ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin737&theme=tokyonight&show_icons=true&count_private=true)
+ ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?=Sachin737)](https://github.com/Sachin737/github-readme-stats)
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <h3 align="left">Connect with me:</h3>
 <p align="left">

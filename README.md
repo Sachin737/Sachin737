@@ -11,7 +11,6 @@
 - 📫 How to reach me  b20129@students.iitmandi.ac.in.
  
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin737&theme=tokyonight&show_icons=true&count_private=true)
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MahawarSachinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdev" height="30" width="40" /></a>
@@ -28,7 +27,6 @@
 Sachin737/Sachin737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin737&" alt="Sachin" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin737&show_icons=true&locale=en&layout=compact" alt="Sachin" /></p>
 <br>
 

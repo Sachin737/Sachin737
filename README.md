@@ -10,10 +10,10 @@
 - 💞️ I’m looking to collaborate on above skills!
 - 📫 How to reach me  b20129@students.iitmandi.ac.in.
 
-  <p> 
+<p>    
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin737&theme=tokyonight&show_icons=true&count_private=true)
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin737&show_icons=true&locale=en&layout=compact" alt="Sachin" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin737&show_icons=true&locale=en&layout=compact" alt="Sachin" /></p>
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MahawarSachinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdev" height="30" width="40" /></a>

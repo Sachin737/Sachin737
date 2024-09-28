@@ -1,3 +1,5 @@
+<img src="github-header-image.png" alt="GitHub Banner" style="width:100%;"/>
+
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!;I+am+Sachin;&center=true&size=30">
 </a>
@@ -17,4 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sachin737&icon=1&color=3)](https://visitcount.itsvg.in)
-

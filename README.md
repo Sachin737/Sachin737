@@ -1,9 +1,5 @@
 <img src="github-header-image.png" alt="GitHub Banner" style="width:100%;"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!;I+am+Sachin;&center=true&size=30">
-</a>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-mahawar-22b0b41b9/) 
 
